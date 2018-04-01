@@ -1,0 +1,7 @@
+# Ignore tmp files
+.DS_Store
+.ipynb_checkpoints/
+
+# Ignore data
+*.csv
+data/
